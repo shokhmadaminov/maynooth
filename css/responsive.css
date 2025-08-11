@@ -1,0 +1,29 @@
+/* extra extra large */
+@media only screen and (max-width: 1536px) {
+}
+
+/* extra large */
+@media only screen and (max-width: 1280px) {
+  .header__end {
+    gap: 32px;
+  }
+}
+
+/* large */
+@media only screen and (max-width: 1024px) {
+  .sitenav {
+    display: none;
+  }
+}
+
+/* medium */
+@media only screen and (max-width: 768px) {
+  .header__logo img {
+    width: 140px;
+    height: auto;
+  }
+}
+
+/* small */
+@media only screen and (max-width: 640px) {
+}
